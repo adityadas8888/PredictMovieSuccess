@@ -1,10 +1,10 @@
-#install.packages("twitteR")
-#install.packages("xlsx")
-#install.packages("rJava")
-#install.packages("stringr")
-#install.packages("xlsx")
-#install.packages("plyr")
-# Sys.setenv(JAVA_HOME='C:\\Program Files\\Java\\jre-10')
+# install.packages("twitteR")
+# install.packages("xlsx")
+# install.packages("rJava")
+# install.packages("stringr")
+# install.packages("xlsx")
+# install.packages("plyr")
+ Sys.setenv(JAVA_HOME='C:\\Program Files\\Java\\jre-10')
 library(twitteR)
 library(rJava)
 library(stringr)
@@ -17,8 +17,8 @@ access_token_secret <-"z8edAofLxpjTXVcs2cneHAij1XlXGnavHQX9j8QwnovDf"
 setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
 options(max.print=6000)
 neg = c(neg, 'fat','wtf','nigger','bloody')
-score.sentiment = function(tweets, pos.words, neg.words)
   
+score.sentiment = function(tweets, pos.words, neg.words)
 {
   
   require(plyr)
@@ -60,12 +60,10 @@ score.sentiment = function(tweets, pos.words, neg.words)
   scores.df = data.frame(score=scores, text=tweets)
   
   return(scores.df)
-  
-}
+  }
 neg = scan("negative-words.txt", what="character", comment.char=";")
 pos = scan("positive-words.txt", what="character", comment.char=";")
-tweets = searchTwitter('volvo',n=5000,lang = 'en')
-
+tweets = searchTwitter('nigga',n=5000,lang = 'en')
 Tweets.text = laply(tweets,function(t)t$getText()) # gets text from Tweets
 analysis = score.sentiment(Tweets.text, pos, neg) # calls sentiment function
 hist(analysis$score)

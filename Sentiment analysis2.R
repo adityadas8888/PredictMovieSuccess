@@ -1,17 +1,16 @@
-#Sys.setenv(JAVA_HOME='C:\\Program Files\\Java\\jre-10')
+ # install.packages("twitteR")
+ # install.packages("xlsx")
+ # install.packages("rJava")
+ # install.packages("stringr")
+ # install.packages("xlsx")
+ # install.packages("plyr")
+Sys.setenv(JAVA_HOME='C:\\Program Files\\Java\\jre-10')
 library(twitteR)
 library(rJava)
 library(stringr)
 library(twitteR)
 library(xlsx)
 library(plyr)
-api_key<- "EamQYfRQy3SPDRDZObIZ0vWzO"
-api_secret <- "Dag68LESJhelSgDWCxpIeAMzSeoXO3hKWtBUhcbBuVaBG0OpA9"
-access_token <- "981530225803608064-pViHPn9pvtJTZlX8WXkRXk5mzW4zL8p"
-access_token_secret <-"gZ7ajWGt3vFJVVTbKolmEgyDIEEvL7nErzB5gJH0qtSAZ"
-setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
-options(max.print=6000)
-#neg = c(neg, 'fat')
 score.sentiment = function(tweets, pos.words, neg.words)
   
 {

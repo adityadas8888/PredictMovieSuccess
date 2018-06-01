@@ -1,20 +1,20 @@
 # PredictMovieSuccess
-This project is an ongoing prototype to predict a movie's success based on various factors.
+<i>This project is an ongoing prototype to predict a movie's success based on various factors.
  The dependant factors/attributes for the Machine Learning model are currently Production House Investmen for the Movie,
 IMDb Score, and Movie Gross.
 Sentiment Analysis using twitter is also being tested as a factor.
-Phase 1:(Completed)
+ <b>Phase 1:(Completed)</b><br>
 We are using basic factors like Production House investment, IMDb Score to predict the release month. Such a model and bare bone attributes were used, because a new actor or a new director gave us outlier values and threw exceptions.
 Current Accuracy Range:- 71-98%
-
-Phase 2:(Ongoing)
+<br>
+ <b>Phase 2:(Ongoing)</b>
 In this phase we are trying to incorporate current population sentiments using Facebook and Twitter. 
 Using the TwitteR API to pull sentiments for a particular keyword.
 
+</i>
 
 
-
-Initial Literature Survey
+<b>Initial Literature Survey<b>
 
 <b>ABSTRACT</b>
 

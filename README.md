@@ -7,7 +7,7 @@ Sentiment Analysis using twitter is also being tested as a factor.
  <b>Phase 1:(Completed)</b><br>
 We are using basic factors like Production House investment, IMDb Score to predict the release month. Such a model and bare bone attributes were used, because a new actor or a new director gave us outlier values and threw exceptions.
 Current Accuracy Range:- 71-98%
- <b> Presentation Link</b> https://prezi.com/view/6RWWOY34ye5Gq9M1dqAb
+<br> <b> Presentation Link</b> https://prezi.com/view/6RWWOY34ye5Gq9M1dqAb
 <br>
  <b>Phase 2:(Ongoing)</b>
 In this phase we are trying to incorporate current population sentiments using Facebook and Twitter. 
@@ -29,8 +29,6 @@ This analysis will also empower the producers as to what would be the most apt t
  Release time being wholly essential to the success of the movie, studios decide and pre-announce the envisaged release date long before the actual reveal of their upcoming movies. This choice of dates and then the following changes are tactical in nature taking into deliberation various factors like release of competing movies, holidays, sports event, natural disaster etc. Machine learning mixed with predictive analytics using previously archived data and their box office performance can help us identify the most apt release date for maximizing the revenue.
 Forecasting a movie’s opening success is a laborious task, as it does not always depend on its quality. External factors such as competing movies, time of the year and even weather inﬂuence the success as these factors impact the Box-office sales for the moving opening. Nevertheless, predicting a movie’s opening success in terms of Box-office ticket sales is essential for a movie studio, to plan its cost and make the work proﬁtable
  Machine learning algorithms are widely used to make predictions such as growth in the stock market, demand for products, nature of tumors, etc. This project presents a brief study on the viability of our project and the types of reinforced Machine Learning models we might use to predict movie success rates and time of release.
-
-
 
 <b>INTRODUCTION</b>
 <br>

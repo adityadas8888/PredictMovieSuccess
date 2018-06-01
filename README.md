@@ -7,12 +7,16 @@ Sentiment Analysis using twitter is also being tested as a factor.
  <b>Phase 1:(Completed)</b><br>
 We are using basic factors like Production House investment, IMDb Score to predict the release month. Such a model and bare bone attributes were used, because a new actor or a new director gave us outlier values and threw exceptions.
 Current Accuracy Range:- 71-98%
+ <b> Presentation Link</b> https://prezi.com/view/6RWWOY34ye5Gq9M1dqAb
 <br>
  <b>Phase 2:(Ongoing)</b>
 In this phase we are trying to incorporate current population sentiments using Facebook and Twitter. 
 Using the TwitteR API to pull sentiments for a particular keyword.
 
 </i>
+
+
+
 
 
 <b>Initial Literature Survey</b>
@@ -40,10 +44,8 @@ We are taking the following non-exhaustive dataset for our ML model: -
 •	Clashing events or movies and their previous track records.
 
 
-
 <b>BLOCK DIAGRAM</b>
 
-<br>
 <b>PROCESS MODEL</b>
 <br>
 <p align="center">

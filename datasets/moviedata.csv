@@ -1,0 +1,100 @@
+director_name,duration,actor_1_name,actor_2_name,actor_3_name,budget,imdb_score,movie_title,genres,gross
+James Cameron,178,CCH Pounder,Joel David Moore,Wes Studi,237000000,7.9,Avatar,Action|Adventure|Fantasy|Sci-Fi,760505847
+Gore Verbinski,169,Johnny Depp,Orlando Bloom,Jack Davenport,300000000,7.1,Pirates of the Caribbean: At World's End,Action|Adventure|Fantasy,309404152
+Sam Mendes,148,Christoph Waltz,Rory Kinnear,Stephanie Sigman,245000000,6.8,Spectre,Action|Adventure|Thriller,200074175
+Christopher Nolan,164,Tom Hardy,Christian Bale,Joseph Gordon-Levitt,250000000,8.5,The Dark Knight Rises,Action|Thriller,448130642
+Peter Jackson,182,Aidan Turner,Adam Brown,James Nesbitt,180000000,7.9,The Hobbit: An Unexpected Journey,Adventure|Fantasy,303001229
+Andrew Stanton,132,Daryl Sabara,Samantha Morton,Polly Walker,263700000,6.6,John Carter,Action|Adventure|Sci-Fi,73058679
+Sam Raimi,156,J.K. Simmons,James Franco,Kirsten Dunst,258000000,6.2,Spider-Man 3,Action|Adventure|Romance,336530303
+Nathan Greno,100,Brad Garrett,Donna Murphy,M.C. Gainey,260000000,7.8,Tangled,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,200807262
+Joss Whedon,141,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson,250000000,7.5,Avengers: Age of Ultron,Action|Adventure|Sci-Fi,458991599
+David Yates,153,Alan Rickman,Daniel Radcliffe,Rupert Grint,250000000,7.5,Harry Potter and the Half-Blood Prince,Adventure|Family|Fantasy|Mystery,301956980
+Zack Snyder,183,Henry Cavill,Lauren Cohan,Alan D. Purwin,250000000,6.9,Batman v Superman: Dawn of Justice,Action|Adventure|Sci-Fi,330249062
+Bryan Singer,169,Kevin Spacey,Marlon Brando,Frank Langella,209000000,6.1,Superman Returns,Action|Adventure|Sci-Fi,200069408
+Marc Forster,106,Giancarlo Giannini,Mathieu Amalric,Rory Kinnear,200000000,6.7,Quantum of Solace,Action|Adventure,168368427
+Gore Verbinski,151,Johnny Depp,Orlando Bloom,Jack Davenport,225000000,7.3,Pirates of the Caribbean: Dead Man's Chest,Action|Adventure|Fantasy,423032628
+Gore Verbinski,150,Johnny Depp,Ruth Wilson,Tom Wilkinson,215000000,6.5,The Lone Ranger,Action|Adventure|Western,89289910
+Zack Snyder,143,Henry Cavill,Christopher Meloni,Harry Lennix,225000000,7.2,Man of Steel,Action|Adventure|Fantasy|Sci-Fi,291021565
+Andrew Adamson,150,Peter Dinklage,Pierfrancesco Favino,Damián Alcázar,225000000,6.6,The Chronicles of Narnia: Prince Caspian,Action|Adventure|Family|Fantasy,141614023
+Joss Whedon,173,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson,220000000,8.1,The Avengers,Action|Adventure|Sci-Fi,623279547
+Rob Marshall,136,Johnny Depp,Sam Claflin,Stephen Graham,250000000,6.7,Pirates of the Caribbean: On Stranger Tides,Action|Adventure|Fantasy,241063875
+Barry Sonnenfeld,106,Will Smith,Michael Stuhlbarg,Nicole Scherzinger,225000000,6.8,Men in Black 3,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,179020854
+Peter Jackson,164,Aidan Turner,Adam Brown,James Nesbitt,250000000,7.5,The Hobbit: The Battle of the Five Armies,Adventure|Fantasy,255108370
+Marc Webb,153,Emma Stone,Andrew Garfield,Chris Zylka,230000000,7,The Amazing Spider-Man,Action|Adventure|Fantasy,262030663
+Ridley Scott,156,Mark Addy,William Hurt,Scott Grimes,200000000,6.7,Robin Hood,Action|Adventure|Drama|History,105219735
+Peter Jackson,186,Aidan Turner,Adam Brown,James Nesbitt,225000000,7.9,The Hobbit: The Desolation of Smaug,Adventure|Fantasy,258355354
+Chris Weitz,113,Christopher Lee,Eva Green,Kristin Scott Thomas,180000000,6.1,The Golden Compass,Adventure|Family|Fantasy,70083519
+Peter Jackson,201,Naomi Watts,Thomas Kretschmann,Evan Parke,207000000,7.2,King Kong,Action|Adventure|Drama|Romance,218051260
+James Cameron,194,Leonardo DiCaprio,Kate Winslet,Gloria Stuart,200000000,7.7,Titanic,Drama|Romance,658672302
+Anthony Russo,147,Robert Downey Jr.,Scarlett Johansson,Chris Evans,250000000,8.2,Captain America: Civil War,Action|Adventure|Sci-Fi,407197282
+Peter Berg,131,Liam Neeson,Alexander Skarsgård,Tadanobu Asano,209000000,5.9,Battleship,Action|Adventure|Sci-Fi|Thriller,65173160
+Colin Trevorrow,124,Bryce Dallas Howard,Judy Greer,Omar Sy,150000000,7,Jurassic World,Action|Adventure|Sci-Fi|Thriller,652177271
+Sam Mendes,143,Albert Finney,Helen McCrory,Rory Kinnear,200000000,7.8,Skyfall,Action|Adventure|Thriller,304360277
+Sam Raimi,135,J.K. Simmons,James Franco,Kirsten Dunst,200000000,7.3,Spider-Man 2,Action|Adventure|Fantasy|Romance,373377893
+Shane Black,195,Robert Downey Jr.,Jon Favreau,Don Cheadle,200000000,7.2,Iron Man 3,Action|Adventure|Sci-Fi,408992272
+Tim Burton,108,Johnny Depp,Alan Rickman,Anne Hathaway,200000000,6.5,Alice in Wonderland,Adventure|Family|Fantasy,334185206
+Brett Ratner,104,Hugh Jackman,Kelsey Grammer,Daniel Cudmore,210000000,6.8,X-Men: The Last Stand,Action|Adventure|Fantasy|Sci-Fi|Thriller,234360014
+Dan Scanlon,104,Steve Buscemi,Tyler Labine,Sean Hayes,200000000,7.3,Monsters University,Adventure|Animation|Comedy|Family|Fantasy,268488329
+Michael Bay,150,Glenn Morshower,Kevin Dunn,Ramon Rodriguez,200000000,6,Transformers: Revenge of the Fallen,Action|Adventure|Sci-Fi,402076689
+Michael Bay,165,Bingbing Li,Sophia Myles,Kelsey Grammer,210000000,5.7,Transformers: Age of Extinction,Action|Adventure|Sci-Fi,245428137
+Sam Raimi,130,Tim Holmes,Mila Kunis,James Franco,215000000,6.4,Oz the Great and Powerful,Adventure|Family|Fantasy,234903076
+Marc Webb,142,Emma Stone,Andrew Garfield,B.J. Novak,200000000,6.7,The Amazing Spider-Man 2,Action|Adventure|Fantasy|Sci-Fi,202853933
+Joseph Kosinski,125,Jeff Bridges,Olivia Wilde,James Frain,170000000,6.8,TRON: Legacy,Action|Adventure|Sci-Fi,172051787
+John Lasseter,106,Joe Mantegna,Thomas Kretschmann,Eddie Izzard,200000000,6.3,Cars 2,Adventure|Animation|Comedy|Family|Sport,191450875
+Martin Campbell,123,Ryan Reynolds,Temuera Morrison,Taika Waititi,200000000,5.6,Green Lantern,Action|Adventure|Sci-Fi,116593191
+Lee Unkrich,103,Tom Hanks,John Ratzenberger,Don Rickles,200000000,8.3,Toy Story 3,Adventure|Animation|Comedy|Family|Fantasy,414984497
+McG,118,Christian Bale,Bryce Dallas Howard,Common,200000000,6.6,Terminator Salvation,Action|Adventure|Sci-Fi,125320003
+James Wan,140,Jason Statham,Paul Walker,Vin Diesel,190000000,7.2,Furious 7,Action|Crime|Thriller,350034110
+Marc Forster,123,Peter Capaldi,Brad Pitt,Mireille Enos,190000000,7,World War Z,Action|Adventure|Horror|Sci-Fi|Thriller,202351611
+Bryan Singer,149,Jennifer Lawrence,Peter Dinklage,Hugh Jackman,200000000,8,X-Men: Days of Future Past,Action|Adventure|Fantasy|Sci-Fi|Thriller,233914986
+J.J. Abrams,132,Benedict Cumberbatch,Bruce Greenwood,Noel Clarke,190000000,7.8,Star Trek Into Darkness,Action|Adventure|Sci-Fi,228756232
+Bryan Singer,114,Eddie Marsan,Ewen Bremner,Ralph Brown,195000000,6.3,Jack the Giant Slayer,Adventure|Fantasy,65171860
+Baz Luhrmann,143,Leonardo DiCaprio,Elizabeth Debicki,Steve Bisley,105000000,7.3,The Great Gatsby,Drama|Romance,144812796
+Mike Newell,116,Jake Gyllenhaal,Richard Coyle,Reece Ritchie,200000000,6.6,Prince of Persia: The Sands of Time,Action|Adventure|Fantasy|Romance,90755643
+Guillermo del Toro,131,Charlie Hunnam,Clifton Collins Jr.,Larry Joe Campbell,190000000,7,Pacific Rim,Action|Adventure|Sci-Fi,101785482
+Michael Bay,154,Glenn Morshower,Lester Speight,Kevin Dunn,195000000,6.3,Transformers: Dark of the Moon,Action|Adventure|Sci-Fi,352358779
+Steven Spielberg,122,Harrison Ford,Ray Winstone,Jim Broadbent,185000000,6.2,Indiana Jones and the Kingdom of the Crystal Skull,Action|Adventure|Fantasy,317011114
+Zack Snyder,215,Matt Frewer,Billy Crudup,Stephen McHattie,130000000,7.7,Watchmen,Action|Drama|Mystery|Sci-Fi,107503316
+Mark Andrews,93,Kelly Macdonald,John Ratzenberger,Julie Walters,185000000,7.2,Brave,Adventure|Animation|Comedy|Family|Fantasy,237282182
+Justin Lin,122,Sofia Boutella,Melissa Roxburgh,Lydia Wilson,185000000,7.5,Star Trek Beyond,Action|Adventure|Sci-Fi|Thriller,130468626
+Andrew Stanton,98,John Ratzenberger,Fred Willard,Jeff Garlin,180000000,8.4,WALL·E,Adventure|Animation|Family|Sci-Fi,223806889
+Brett Ratner,91,Tzi Ma,Dana Ivey,Noémie Lenoir,140000000,6.2,Rush Hour 3,Action|Comedy|Crime|Thriller,140080850
+Roland Emmerich,158,Oliver Platt,Liam James,Tom McCarthy,200000000,5.8,2012,Action|Adventure|Sci-Fi,166112167
+Robert Zemeckis,96,Robin Wright,Colin Firth,Gary Oldman,200000000,6.8,A Christmas Carol,Animation|Drama|Family|Fantasy,137850096
+Lana Wachowski,127,Channing Tatum,Mila Kunis,Eddie Redmayne,176000000,5.4,Jupiter Ascending,Action|Adventure|Sci-Fi,47375327
+David Yates,110,Christoph Waltz,Alexander Skarsgård,Casper Crump,180000000,6.6,The Legend of Tarzan,Action|Adventure|Drama|Romance,124051759
+Andrew Adamson,150,Jim Broadbent,Kiran Shah,Shane Rangi,180000000,6.9,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Adventure|Family|Fantasy,291709845
+Bryan Singer,144,Jennifer Lawrence,Michael Fassbender,Tye Sheridan,178000000,7.3,X-Men: Apocalypse,Action|Adventure|Sci-Fi,154985087
+Christopher Nolan,152,Christian Bale,Heath Ledger,Morgan Freeman,185000000,9,The Dark Knight,Action|Crime|Drama|Thriller,533316061
+Pete Docter,96,John Ratzenberger,Delroy Lindo,Jess Harnell,175000000,8.3,Up,Adventure|Animation|Comedy|Family,292979556
+Rob Letterman,94,Amy Poehler,Rainn Wilson,Stephen Colbert,175000000,6.5,Monsters vs. Aliens,Action|Adventure|Animation|Comedy|Family|Sci-Fi,198332128
+Jon Favreau,126,Robert Downey Jr.,Jeff Bridges,Jon Favreau,140000000,7.9,Iron Man,Action|Adventure|Sci-Fi,318298180
+Martin Scorsese,126,Chloë Grace Moretz,Christopher Lee,Ray Winstone,170000000,7.5,Hugo,Adventure|Drama|Family|Mystery,73820094
+Barry Sonnenfeld,106,Will Smith,Salma Hayek,Bai Ling,170000000,4.8,Wild Wild West,Action|Comedy|Sci-Fi|Western,113745408
+Rob Cohen,112,Jet Li,Brendan Fraser,Russell Wong,145000000,5.2,The Mummy: Tomb of the Dragon Emperor,Action|Adventure|Fantasy|Horror|Thriller,102176165
+David Ayer,123,Will Smith,Robin Atkin Downes,Ike Barinholtz,175000000,6.9,Suicide Squad,Action|Adventure|Comedy|Sci-Fi,161087183
+Tom Shadyac,96,Jimmy Bennett,Morgan Freeman,Steve Carell,175000000,5.4,Evan Almighty,Comedy|Family|Fantasy,100289690
+Doug Liman,113,Tom Cruise,Lara Pulver,Noah Taylor,178000000,7.9,Edge of Tomorrow,Action|Adventure|Sci-Fi,100189501
+Kevin Reynolds,176,Jeanne Tripplehorn,Rick Aviles,Zakes Mokae,175000000,6.1,Waterworld,Action|Adventure|Sci-Fi|Thriller,88246220
+Stephen Sommers,118,Joseph Gordon-Levitt,Dennis Quaid,Leo Howard,175000000,5.8,G.I. Joe: The Rise of Cobra,Action|Adventure|Sci-Fi|Thriller,150167630
+Pete Docter,95,Amy Poehler,Mindy Kaling,Phyllis Smith,175000000,8.3,Inside Out,Adventure|Animation|Comedy|Drama|Family|Fantasy,356454367
+Jon Favreau,106,Scarlett Johansson,Bill Murray,Garry Shandling,175000000,7.8,The Jungle Book,Adventure|Drama|Family|Fantasy,362645141
+Jon Favreau,124,Robert Downey Jr.,Scarlett Johansson,Jon Favreau,200000000,7,Iron Man 2,Action|Adventure|Sci-Fi,312057433
+Rupert Sanders,132,Chris Hemsworth,Kristen Stewart,Sam Claflin,170000000,6.1,Snow White and the Huntsman,Action|Adventure|Drama|Fantasy,155111815
+Robert Stromberg,97,Angelina Jolie Pitt,Sharlto Copley,Sam Riley,180000000,7,Maleficent,Action|Adventure|Family|Fantasy|Romance,241407328
+Matt Reeves,130,Gary Oldman,Judy Greer,Kodi Smit-McPhee,170000000,7.6,Dawn of the Planet of the Apes,Action|Adventure|Drama|Sci-Fi,208543795
+Francis Lawrence,137,Jennifer Lawrence,Philip Seymour Hoffman,Josh Hutcherson,160000000,6.6,The Hunger Games: Mockingjay - Part 2,Adventure|Sci-Fi,281666058
+Carl Rinsch,128,Keanu Reeves,Cary-Hiroyuki Tagawa,Jin Akanishi,175000000,6.3,47 Ronin,Action|Adventure|Drama|Fantasy,38297305
+Anthony Russo,136,Scarlett Johansson,Chris Evans,Hayley Atwell,170000000,7.8,Captain America: The Winter Soldier,Action|Adventure|Sci-Fi,259746958
+Mike Mitchell,93,Jon Hamm,Kathy Griffin,Mary Kay Place,165000000,6.4,Shrek Forever After,Adventure|Animation|Comedy|Family|Fantasy,238371987
+Brad Bird,130,Judy Greer,Chris Bauer,Thomas Robinson,190000000,6.5,Tomorrowland,Action|Adventure|Family|Mystery|Sci-Fi,93417865
+Don Hall,102,Damon Wayans Jr.,Daniel Henney,Abraham Benrubi,165000000,7.9,Big Hero 6,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,222487711
+Rich Moore,101,Jack McBrayer,Sarah Silverman,Joe Lo Truglio,165000000,7.8,Wreck-It Ralph,Adventure|Animation|Comedy|Family|Sci-Fi,189412677
+Robert Zemeckis,100,Tom Hanks,Eddie Deezen,Peter Scolari,165000000,6.6,The Polar Express,Adventure|Animation|Family|Fantasy,665426
+Roland Emmerich,120,Vivica A. Fox,Sela Ward,Judd Hirsch,165000000,5.5,Independence Day: Resurgence,Action|Adventure|Sci-Fi,102315545
+Dean DeBlois,98,Gerard Butler,America Ferrera,Craig Ferguson,165000000,8.2,How to Train Your Dragon,Adventure|Animation|Family|Fantasy,217387997
+Jonathan Mostow,109,Nick Stahl,M.C. Gainey,Carolyn Hennesy,200000000,6.4,Terminator 3: Rise of the Machines,Action|Sci-Fi,150350192
+James Gunn,121,Bradley Cooper,Vin Diesel,Djimon Hounsou,170000000,8.1,Guardians of the Galaxy,Action|Adventure|Sci-Fi,333130696
+Christopher Nolan,169,Matthew McConaughey,Anne Hathaway,Mackenzie Foy,165000000,8.6,Interstellar,Adventure|Drama|Sci-Fi,187991439
+Christopher Nolan,148,Leonardo DiCaprio,Tom Hardy,Joseph Gordon-Levitt,160000000,8.8,Inception,Action|Adventure|Sci-Fi|Thriller,292568851
+Peter Berg,102,Will Smith,Charlize Theron,Eddie Marsan,150000000,6.4,Hancock,Action|Drama,227946274

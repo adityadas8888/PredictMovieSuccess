@@ -63,7 +63,7 @@ This is the data acquisition part of the ML model. The initial dataset to be use
 <p align="right">
   <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/cleaning2.png" width="350"/>
 </p>
-<b>DATA CLEANING</b>
+<b>DATA CLEANING</b><br>
 The data  obtained is highly susceptible to noise, missing and inconsistent data due to the huge size and their likely origin from multiple/heterogeneous sources. The main problem with datasets will be missing ﬁelds. To overcome this missing ﬁeld problem we can adopt a method which uses a measure of central tendency for the attribute. We can use both mean and median as central tendency.
 <br>
 <b>DATA DIVISION</b>

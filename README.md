@@ -3,6 +3,7 @@
  The dependant factors/attributes for the Machine Learning model are currently Production House Investmen for the Movie,
 IMDb Score, and Movie Gross.
 Sentiment Analysis using twitter is also being tested as a factor.
+ <br>
  <b>Phase 1:(Completed)</b><br>
 We are using basic factors like Production House investment, IMDb Score to predict the release month. Such a model and bare bone attributes were used, because a new actor or a new director gave us outlier values and threw exceptions.
 Current Accuracy Range:- 71-98%

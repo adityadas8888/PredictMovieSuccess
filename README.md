@@ -16,8 +16,9 @@ Using the TwitteR API to pull sentiments for a particular keyword.
 
 Initial Literature Survey
 
-ABSTRACT
+<b>ABSTRACT</b>
 
+<br>
 With India being the churner of the largest number of motion pictures and third in the world in terms of revenue, movies are a part and parcel of every Indian’s life.  The budget of these movies is usually in the order of crores of Rupees, making their box ofﬁce success utterly imperative for the survival of the industry. Having the knowledge that which movies are likely to make headway and which are likely to fail before the release could support the production houses greatly as it will enable them to focus their advertising campaigns which itself costs crores. 
 This analysis will also empower the producers as to what would be the most apt time to release a movie according to the state of the overall market.
  Release time being wholly essential to the success of the movie, studios decide and pre-announce the envisaged release date long before the actual reveal of their upcoming movies. This choice of dates and then the following changes are tactical in nature taking into deliberation various factors like release of competing movies, holidays, sports event, natural disaster etc. Machine learning mixed with predictive analytics using previously archived data and their box office performance can help us identify the most apt release date for maximizing the revenue.
@@ -26,7 +27,8 @@ Forecasting a movie’s opening success is a laborious task, as it does not alwa
 
 
 
-INTRODUCTION
+<b>INTRODUCTION</b>
+<br>
 With the advent of AI and widespread use of machine learning, we are at the epoch of a new era in computing. The field of machine learning has matured by leaps and bounds. We are able to guess diseases in human beings long before they become fatal, predict and avert natural disasters. We cannot even start contemplating the endless areas machine learning could help humanity to solve their umpteen problems.
 Predictive TTM Optimization plans to tap into one of the largest sectors of entertainment available today. Though the box office looks innocuous enough to seem like just an industry that deals with the fun and entertainment, it is far from the truth. The film industry employs lakhs of people in our country itself. They are usually at the forefront of cutting edge technology, funding expensive, next-gen techniques. Techniques that other sectors cannot invest in due to the unavailability of funds. And because the film industry is cash strapped, they end up indirectly funding a lot of technologies that go onto become next big thing. Things like 3D movies, high pressure cameras are one of few wonders kick-started by the film industry. 
 Thus, keeping the interests of the film industry is a very crucial thing. We have therefore decided upon a Machine learning project that predicts the success of films, taking into consideration a lot of factors like the track history of the film production house, actors, directors, release time, competing films etc.
@@ -38,16 +40,18 @@ We are taking the following non-exhaustive dataset for our ML model: -
 
 
 
-BLOCK DIAGRAM 
+<b>BLOCK DIAGRAM</b>
 
-
-PROCESS MODEL
+<br>
+<b>PROCESS MODEL</b>
+<br>
 <p align="center">
   <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/model.png" width="350"/>
 </p>
-MODEL COMPONENTS: -
-
+<b>MODEL COMPONENTS</b>: -
+<br>
 DATA  ACQUISITION
+<br>
  <p align="center">
   <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/data%20acqu.jpg" width="350"/>
 </p>
@@ -58,11 +62,14 @@ This is the data acquisition part of the ML model. The initial dataset to be use
 <p align="right">
   <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/cleaning2.png" width="350"/>
 </p>
-DATA CLEANING
+<b>DATA CLEANING</b>
 The data  obtained is highly susceptible to noise, missing and inconsistent data due to the huge size and their likely origin from multiple/heterogeneous sources. The main problem with datasets will be missing ﬁelds. To overcome this missing ﬁeld problem we can adopt a method which uses a measure of central tendency for the attribute. We can use both mean and median as central tendency.
-DATA DIVISION
+<br>
+<b>DATA DIVISION</b>
+<br>
 The data after cleaning and processing will be divided into three parts. Training data, testing data and holdout data. The training data, as the name suggests is the data used to train the classification models. The testing data is used on the model after it has been trained to give a rough idea of the efficiency of our model. Finally, after re-iterating both the test and training data, we will use the holdout data. This data has never been exposed to the model, so it will give an unbiased solution. The ratio of training:testing:holdout data can vary according to the models we use.
-CLASSIFICATION/TRAINING MODELS
+<br>
+<b>CLASSIFICATION/TRAINING MODELS</b><br>
 We are using a multitude of classification models to measure results against each other.
 The algorithms and their variants that might be implemented using TensorFlow are described below - 
 • Decision trees: Deep tree, medium tree, and shallow tree 

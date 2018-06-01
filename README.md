@@ -15,7 +15,7 @@ Using the TwitteR API to pull sentiments for a particular keyword.
 </i>
 
 
-<b>Initial Literature Survey<b>
+<b>Initial Literature Survey</b>
 
 <b>ABSTRACT</b>
 

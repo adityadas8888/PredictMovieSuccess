@@ -47,21 +47,21 @@ We are taking the following non-exhaustive dataset for our ML model: -
 <b>PROCESS MODEL</b>
 <br>
 <p align="center">
-  <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/model.png" width="350"/>
+  <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/images/model.png" width="350"/>
 </p>
 <b>MODEL COMPONENTS</b>: -
 <br>
 DATA  ACQUISITION
 <br>
  <p align="center">
-  <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/data%20acqu.jpg" width="350"/>
+  <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/images/data%20acqu.jpg" width="350"/>
 </p>
 This is the data acquisition part of the ML model. The initial dataset to be used will be collected from sources as mentioned above. It will consist of movies that were released from 2000 to 2017. For making more precise predictions, we will reﬁne the movie list by removing regional movies. Only movies with the English or Hindi medium of language and which have reviews in English will be selected, in the expectation that it will form a dataset for precise forecast. We will be removing movies which don’t have any information about box ofﬁce details. 
 <p align="left">
-  <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/cleaning.png" width="350"/>
+  <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/images/cleaning.png" width="350"/>
 </p>
 <p align="right">
-  <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/cleaning2.png" width="350"/>
+  <img src="https://github.com/adityadas8888/PredictMovieSuccess/blob/master/images/cleaning2.png" width="350"/>
 </p>
 <b>DATA CLEANING</b><br>
 The data  obtained is highly susceptible to noise, missing and inconsistent data due to the huge size and their likely origin from multiple/heterogeneous sources. The main problem with datasets will be missing ﬁelds. To overcome this missing ﬁeld problem we can adopt a method which uses a measure of central tendency for the attribute. We can use both mean and median as central tendency.
